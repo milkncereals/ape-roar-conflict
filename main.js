@@ -6,3 +6,5 @@ if truth = !truth {
 } else {
 	greeting = "You don't know";
 }
+
+//testing
